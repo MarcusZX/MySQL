@@ -1,0 +1,1 @@
+select rental_duration from film where title = 'academy dinosaur';
